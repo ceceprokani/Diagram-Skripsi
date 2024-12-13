@@ -254,7 +254,7 @@
         <mxCell id="jaqBcTecHECJfo1LTqMZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YIHD0tMDVWa32eO57tJM-111" source="jaqBcTecHECJfo1LTqMZ-22" target="YIHD0tMDVWa32eO57tJM-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jaqBcTecHECJfo1LTqMZ-22" value="Menampilkan Status&#xa;Lulus / Tidak Lulus" style="" vertex="1" parent="YIHD0tMDVWa32eO57tJM-111">
+        <mxCell id="jaqBcTecHECJfo1LTqMZ-22" value="Menampilkan Status Akhir&#xa;Kandidat" style="" vertex="1" parent="YIHD0tMDVWa32eO57tJM-111">
           <mxGeometry x="44.129999999999995" y="1180" width="207.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jaqBcTecHECJfo1LTqMZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YIHD0tMDVWa32eO57tJM-111" source="YIHD0tMDVWa32eO57tJM-108" target="jaqBcTecHECJfo1LTqMZ-39">
