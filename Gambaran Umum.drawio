@@ -272,6 +272,15 @@
         <mxCell id="jaqBcTecHECJfo1LTqMZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YIHD0tMDVWa32eO57tJM-111" source="jaqBcTecHECJfo1LTqMZ-39" target="jaqBcTecHECJfo1LTqMZ-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jaqBcTecHECJfo1LTqMZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="YIHD0tMDVWa32eO57tJM-111" source="jaqBcTecHECJfo1LTqMZ-39" target="YIHD0tMDVWa32eO57tJM-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="1005" />
+              <mxPoint x="270" y="1400" />
+              <mxPoint x="148" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jaqBcTecHECJfo1LTqMZ-39" value="Kandidat Lulus ?" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="YIHD0tMDVWa32eO57tJM-111">
           <mxGeometry x="92.76" y="977.5" width="110" height="55" as="geometry" />
         </mxCell>
