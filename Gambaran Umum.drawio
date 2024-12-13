@@ -192,8 +192,8 @@
         <mxCell id="YIHD0tMDVWa32eO57tJM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RKCoc4Ff2t_dRbGgtJyt-79" target="RKCoc4Ff2t_dRbGgtJyt-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YIHD0tMDVWa32eO57tJM-25" value="Analisis Sistem Berjalan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="25" width="450" height="60" as="geometry" />
+        <mxCell id="YIHD0tMDVWa32eO57tJM-25" value="Sistem Yang Diusulkan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="25" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIHD0tMDVWa32eO57tJM-102" value="Human Resource Development (HRD)" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="1270" y="110" width="280" height="1500" as="geometry">
