@@ -79,7 +79,7 @@
         <mxCell id="-LnCVVdrkijfgitVFEL--36" value="USE CASE DIAGRAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=50;" parent="1" vertex="1">
           <mxGeometry x="70" y="33" width="520" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VW0m0DfXCC-n98u10OSN-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="VW0m0DfXCC-n98u10OSN-1" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="320" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VW0m0DfXCC-n98u10OSN-5" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=0.06;entryY=0.304;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-LnCVVdrkijfgitVFEL--9" edge="1" source="VW0m0DfXCC-n98u10OSN-1">
