@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="USE CASE DIAGRAM" id="6T4qsqivxqvrZ7MX3iYm">
-    <mxGraphModel dx="500" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
             <mxPoint x="477" y="460" as="sourcePoint" />
             <mxPoint x="360" y="695" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="565" />
+              <mxPoint x="520" y="575" />
             </Array>
           </mxGeometry>
         </mxCell>
