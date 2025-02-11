@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Gambaran Umum" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1909" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
         <mxCell id="YIHD0tMDVWa32eO57tJM-172" value="Pengecekan &#xa;Jawaban Psikotest" style="" parent="2" vertex="1">
           <mxGeometry x="85" y="581" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vegIoyeHo5Jib-Qd6CoS-21" value="Pencatatan&#xa;Pelamar" style="" vertex="1" parent="2">
+        <mxCell id="vegIoyeHo5Jib-Qd6CoS-21" value="Penyaringan&#xa;Pelamar" style="" vertex="1" parent="2">
           <mxGeometry x="85" y="293" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RKCoc4Ff2t_dRbGgtJyt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="21" target="vegIoyeHo5Jib-Qd6CoS-21" edge="1">
@@ -82,28 +82,6 @@
             <mxPoint x="-21" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3" source="RKCoc4Ff2t_dRbGgtJyt-58" target="RKCoc4Ff2t_dRbGgtJyt-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-105" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RKCoc4Ff2t_dRbGgtJyt-61" vertex="1" connectable="0">
-          <mxGeometry x="-0.7093" relative="1" as="geometry">
-            <mxPoint x="13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.792;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3" source="RKCoc4Ff2t_dRbGgtJyt-58" target="RKCoc4Ff2t_dRbGgtJyt-73" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45.5" y="1062" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="256" y="427" />
-              <mxPoint x="256" y="1052" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-103" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RKCoc4Ff2t_dRbGgtJyt-90" vertex="1" connectable="0">
-          <mxGeometry x="-0.9133" y="1" relative="1" as="geometry">
-            <mxPoint y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RKCoc4Ff2t_dRbGgtJyt-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3" source="RKCoc4Ff2t_dRbGgtJyt-67" target="RKCoc4Ff2t_dRbGgtJyt-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -129,14 +107,13 @@
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-54" value="Pemilihan Kandidat" style="" parent="3" vertex="1">
+        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-54" value="Pencatatan&#xa;Pelamar" style="" parent="3" vertex="1">
           <mxGeometry x="-195" y="401.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3" source="RKCoc4Ff2t_dRbGgtJyt-54" target="RKCoc4Ff2t_dRbGgtJyt-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-58" value="Terpilih ?" style="rhombus;fillColor=#FFFFFF;strokeColor=#000000;" parent="3" vertex="1">
-          <mxGeometry x="72.75" y="399" width="110" height="55" as="geometry" />
+        <mxCell id="RKCoc4Ff2t_dRbGgtJyt-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3" source="RKCoc4Ff2t_dRbGgtJyt-54" target="RKCoc4Ff2t_dRbGgtJyt-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="72.75" y="426.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RKCoc4Ff2t_dRbGgtJyt-56" value="Psikotest" style="" parent="3" vertex="1">
           <mxGeometry x="72.75" y="499" width="110" height="50" as="geometry" />
