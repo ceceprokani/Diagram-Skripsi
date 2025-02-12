@@ -11,43 +11,45 @@
           <mxGeometry x="150" y="170" width="430" height="690" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--5" value="Super Admin&lt;br&gt;(HRD)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="452" width="30" height="60" as="geometry" />
+          <mxGeometry x="650" y="320" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--6" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--7" value="Upload Berkas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="185" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--8" value="Kelola Jawaban Psikotest" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="360" width="100" height="50" as="geometry" />
+          <mxGeometry x="325" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--9" value="Daftar Calon Karyawan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--10" value="Approval&lt;div&gt;Psikotest&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="790" width="100" height="50" as="geometry" />
+          <mxGeometry x="337.5" y="780" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-LnCVVdrkijfgitVFEL--24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--9" target="-LnCVVdrkijfgitVFEL--6" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="-LnCVVdrkijfgitVFEL--24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--9" target="-LnCVVdrkijfgitVFEL--6" edge="1">
+          <mxGeometry x="-0.3913" relative="1" as="geometry">
             <mxPoint x="440" y="384.5" as="sourcePoint" />
             <mxPoint x="350" y="385" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-LnCVVdrkijfgitVFEL--26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7Te8VOhXa30SamZNzAqr-4" target="-LnCVVdrkijfgitVFEL--6" edge="1">
-          <mxGeometry x="-0.5294" relative="1" as="geometry">
-            <mxPoint x="477" y="460" as="sourcePoint" />
-            <mxPoint x="360" y="695" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="695" />
+              <mxPoint x="310" y="340" />
+              <mxPoint x="210" y="340" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LnCVVdrkijfgitVFEL--27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--8" target="-LnCVVdrkijfgitVFEL--6" edge="1">
+        <mxCell id="-LnCVVdrkijfgitVFEL--26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7Te8VOhXa30SamZNzAqr-4" target="-LnCVVdrkijfgitVFEL--6" edge="1">
+          <mxGeometry x="-0.2241" y="-9" relative="1" as="geometry">
+            <mxPoint x="393" y="685" as="sourcePoint" />
+            <mxPoint x="360" y="695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="685" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LnCVVdrkijfgitVFEL--27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--8" target="-LnCVVdrkijfgitVFEL--6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="207.5" as="sourcePoint" />
             <mxPoint x="350" y="382.5" as="targetPoint" />
@@ -59,13 +61,13 @@
             <mxPoint x="260" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LnCVVdrkijfgitVFEL--30" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=0.057;entryY=0.793;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-LnCVVdrkijfgitVFEL--5" target="-LnCVVdrkijfgitVFEL--8" edge="1">
+        <mxCell id="-LnCVVdrkijfgitVFEL--30" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=0.98;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-LnCVVdrkijfgitVFEL--5" target="-LnCVVdrkijfgitVFEL--8" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="550" as="sourcePoint" />
             <mxPoint x="260" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LnCVVdrkijfgitVFEL--33" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=0.05;entryY=0.687;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-LnCVVdrkijfgitVFEL--5" target="-LnCVVdrkijfgitVFEL--9" edge="1">
+        <mxCell id="-LnCVVdrkijfgitVFEL--33" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--5" target="-LnCVVdrkijfgitVFEL--9" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="530" as="sourcePoint" />
             <mxPoint x="270" y="305" as="targetPoint" />
@@ -90,16 +92,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Te8VOhXa30SamZNzAqr-4" value="Rekap Nilai Psikotest" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="292.5" y="670" width="100" height="50" as="geometry" />
+          <mxGeometry x="292.5" y="660" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7Te8VOhXa30SamZNzAqr-5" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=0.012;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-LnCVVdrkijfgitVFEL--5" target="7Te8VOhXa30SamZNzAqr-4" edge="1">
+        <mxCell id="7Te8VOhXa30SamZNzAqr-5" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--5" target="7Te8VOhXa30SamZNzAqr-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="580" as="sourcePoint" />
             <mxPoint x="270" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7Te8VOhXa30SamZNzAqr-6" value="Unduh Rekap Nilai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222.5" y="790" width="100" height="50" as="geometry" />
+          <mxGeometry x="222.5" y="780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7Te8VOhXa30SamZNzAqr-7" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.334;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7Te8VOhXa30SamZNzAqr-6" target="7Te8VOhXa30SamZNzAqr-4" edge="1">
           <mxGeometry x="-0.3332" relative="1" as="geometry">
@@ -110,10 +112,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lXcN_mgPwJIDh37Nm0o5-3" value="Kelola Kunci Jawaban" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="437.5" y="420" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXcN_mgPwJIDh37Nm0o5-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--8" target="lXcN_mgPwJIDh37Nm0o5-3" edge="1">
-          <mxGeometry x="-0.2" y="14" relative="1" as="geometry">
+        <mxCell id="lXcN_mgPwJIDh37Nm0o5-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.215;entryY=0.128;entryDx=0;entryDy=0;exitX=0.883;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="-LnCVVdrkijfgitVFEL--8" target="lXcN_mgPwJIDh37Nm0o5-3" edge="1">
+          <mxGeometry x="0.3787" y="9" relative="1" as="geometry">
             <mxPoint x="320" y="760" as="sourcePoint" />
             <mxPoint x="320" y="710" as="targetPoint" />
             <mxPoint as="offset" />
@@ -140,10 +142,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lXcN_mgPwJIDh37Nm0o5-9" value="Scan Jawaban Psikotest (OCR)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="325" y="450" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXcN_mgPwJIDh37Nm0o5-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--8" target="lXcN_mgPwJIDh37Nm0o5-9" edge="1">
-          <mxGeometry x="0.0197" y="3" relative="1" as="geometry">
+        <mxCell id="lXcN_mgPwJIDh37Nm0o5-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.403;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-LnCVVdrkijfgitVFEL--8" target="lXcN_mgPwJIDh37Nm0o5-9" edge="1">
+          <mxGeometry x="0.121" y="10" relative="1" as="geometry">
             <mxPoint x="320" y="470" as="sourcePoint" />
             <mxPoint x="320" y="420" as="targetPoint" />
             <mxPoint as="offset" />
@@ -151,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eVHxPvrnUxrZTThEjFGU-1" value="Pencocokan Jawaban dengan Kunci Jawaban&lt;div&gt;dan Hitung Nilai&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286.25" y="560" width="157.5" height="60" as="geometry" />
+          <mxGeometry x="260" y="560" width="157.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eVHxPvrnUxrZTThEjFGU-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lXcN_mgPwJIDh37Nm0o5-9" target="eVHxPvrnUxrZTThEjFGU-1">
           <mxGeometry x="-0.3379" y="22" relative="1" as="geometry">
