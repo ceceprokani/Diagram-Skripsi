@@ -1267,7 +1267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rRfeEsRHD-3Hyx44PJkb" name="SEQUENCE DIAGRAM">
-    <mxGraphModel dx="2822" dy="-3946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3058" dy="-3851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1734,7 +1734,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sGmv8KnESS9BO39D50Wk-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-1338.09" y="4918.62" width="12.65" height="571.38" as="geometry" />
+          <mxGeometry x="-1338.09" y="4870" width="12.65" height="620" as="geometry" />
         </mxCell>
         <mxCell id="sGmv8KnESS9BO39D50Wk-77" value="validateFile" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1116.764705882353" y="4667.46" width="113.82352941176471" height="134.9498490816208" as="geometry" />
@@ -1743,10 +1743,10 @@
           <mxGeometry x="-851.1764705882354" y="4682.462011075147" width="101.17647058823529" height="104.95807822797653" as="geometry" />
         </mxCell>
         <mxCell id="sGmv8KnESS9BO39D50Wk-79" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-1066.18" y="4957.98" width="12.65" height="532.02" as="geometry" />
+          <mxGeometry x="-1066.18" y="4880" width="12.65" height="610" as="geometry" />
         </mxCell>
         <mxCell id="sGmv8KnESS9BO39D50Wk-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-806.91" y="4957.98" width="12.65" height="532.02" as="geometry" />
+          <mxGeometry x="-806.91" y="4880" width="12.65" height="610" as="geometry" />
         </mxCell>
         <mxCell id="sGmv8KnESS9BO39D50Wk-81" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Membuka website&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" source="sGmv8KnESS9BO39D50Wk-92" parent="1">
           <mxGeometry x="0.0199" y="5" width="80" relative="1" as="geometry">
@@ -1829,15 +1829,15 @@
         </mxCell>
         <mxCell id="sGmv8KnESS9BO39D50Wk-105" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Melengkapi data dan simpan&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0199" y="5" width="80" relative="1" as="geometry">
-            <mxPoint x="-1587" y="5110.14" as="sourcePoint" />
-            <mxPoint x="-1338.0882352941176" y="5109.997206645088" as="targetPoint" />
+            <mxPoint x="-1587" y="5140.14" as="sourcePoint" />
+            <mxPoint x="-1338.0882352941176" y="5139.997206645088" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGmv8KnESS9BO39D50Wk-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Melengkapi data dan simpan&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="sGmv8KnESS9BO39D50Wk-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;saveData()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0199" y="5" width="80" relative="1" as="geometry">
-            <mxPoint x="-1325.44" y="5150" as="sourcePoint" />
-            <mxPoint x="-1066.1800000000003" y="5150" as="targetPoint" />
+            <mxPoint x="-1325.26" y="5159.13" as="sourcePoint" />
+            <mxPoint x="-1066.0000000000002" y="5159.13" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1867,6 +1867,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1338.0900000000004" y="5290.3" as="sourcePoint" />
             <mxPoint x="-1596.91" y="5290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGmv8KnESS9BO39D50Wk-114" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;return result&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="sGmv8KnESS9BO39D50Wk-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1066.0000000000002" y="5066.38" as="sourcePoint" />
+            <mxPoint x="-1324.82" y="5066.08" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGmv8KnESS9BO39D50Wk-115" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Menampilkan informasi&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;dari file hasil OCR&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1338.09" y="5085.669999999999" as="sourcePoint" />
+            <mxPoint x="-1586.8600000000001" y="5085.669999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
