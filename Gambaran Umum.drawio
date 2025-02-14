@@ -274,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jaqBcTecHECJfo1LTqMZ-39" value="Kandidat Lulus ?" style="rhombus;fillColor=#FFFFFF;strokeColor=#000000;" parent="YIHD0tMDVWa32eO57tJM-111" vertex="1">
-          <mxGeometry x="92.76" y="977.5" width="110" height="55" as="geometry" />
+          <mxGeometry x="92.76" y="978" width="110" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="YIHD0tMDVWa32eO57tJM-137" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="YIHD0tMDVWa32eO57tJM-111" vertex="1">
           <mxGeometry x="132.75" y="1440" width="30" height="30" as="geometry" />
