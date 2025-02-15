@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JDkG3bA-1qyNmmjzLE93" name="ACTIVITY DIAGRAM">
-    <mxGraphModel dx="2580" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1115,7 +1115,7 @@
         <mxCell id="Td9JHO6Q_XZniEy5SPDv-89" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pilih Menu Rekap Nilai&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Td9JHO6Q_XZniEy5SPDv-85" vertex="1">
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Td9JHO6Q_XZniEy5SPDv-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Approval Status Kelulusan Calon Karyawan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Td9JHO6Q_XZniEy5SPDv-85" vertex="1">
+        <mxCell id="Td9JHO6Q_XZniEy5SPDv-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Approval Status Seleksi Calon Karyawan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Td9JHO6Q_XZniEy5SPDv-85" vertex="1">
           <mxGeometry x="35" y="401" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Td9JHO6Q_XZniEy5SPDv-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Unduh Rekap Nilai (Excel)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Td9JHO6Q_XZniEy5SPDv-85" vertex="1">
