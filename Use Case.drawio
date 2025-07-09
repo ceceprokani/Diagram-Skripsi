@@ -449,7 +449,7 @@
         <mxCell id="BM5nrXmQu21H2nTiz4BQ-5" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
           <mxGeometry x="113" y="745" width="37.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BM5nrXmQu21H2nTiz4BQ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Pesan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&quot;Harap masukan data dengan berar&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
+        <mxCell id="BM5nrXmQu21H2nTiz4BQ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Pesan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&quot;Harap masukan data dengan benar&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
           <mxGeometry x="206.75" y="732.5" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BM5nrXmQu21H2nTiz4BQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="f52TMN1NGTrrrHh_Enjg-6" source="BM5nrXmQu21H2nTiz4BQ-7" target="f52TMN1NGTrrrHh_Enjg-18" edge="1">
@@ -457,7 +457,7 @@
             <mxPoint x="131.75" y="928" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BM5nrXmQu21H2nTiz4BQ-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Pesan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&quot;Berkas berhasil diupload&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
+        <mxCell id="BM5nrXmQu21H2nTiz4BQ-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Pesan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&quot;Lamaran berhasil dikirim&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
           <mxGeometry x="56.75" y="830" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="f52TMN1NGTrrrHh_Enjg-19" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1. Upload Berkas KTP &amp;amp; CV&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=50;" parent="1" vertex="1">
