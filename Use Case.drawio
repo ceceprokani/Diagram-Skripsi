@@ -16,7 +16,7 @@
         <mxCell id="-LnCVVdrkijfgitVFEL--6" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171" y="509" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-LnCVVdrkijfgitVFEL--7" value="Upload Lamaran" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-LnCVVdrkijfgitVFEL--7" value="Upload Lamaran&lt;br&gt;(CV &amp;amp; KTP)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222.5" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--8" value="Kelola Jawaban Psikotest" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4qiZYSaZGQehWmJFmnZG-1" value="Scan KTP (OCR)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="190" width="100" height="30" as="geometry" />
+          <mxGeometry x="410" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4qiZYSaZGQehWmJFmnZG-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-LnCVVdrkijfgitVFEL--7" target="4qiZYSaZGQehWmJFmnZG-1" edge="1">
           <mxGeometry x="-0.2692" y="6" relative="1" as="geometry">
