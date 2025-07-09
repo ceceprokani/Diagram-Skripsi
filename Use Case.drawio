@@ -178,7 +178,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JDkG3bA-1qyNmmjzLE93" name="ACTIVITY DIAGRAM">
-    <mxGraphModel dx="890" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,7 +351,7 @@
             <mxPoint x="120" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f52TMN1NGTrrrHh_Enjg-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pilih Berkas (KTP&amp;amp;CV)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-1" vertex="1">
+        <mxCell id="f52TMN1NGTrrrHh_Enjg-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mengisi Form Input dan Pilih Berkas (KTP&amp;amp;CV)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-1" vertex="1">
           <mxGeometry x="35" y="265" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f52TMN1NGTrrrHh_Enjg-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Buka Website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-1" vertex="1">
@@ -363,8 +363,8 @@
         <mxCell id="f52TMN1NGTrrrHh_Enjg-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sistem&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="-840" width="410" height="990" as="geometry" />
         </mxCell>
-        <mxCell id="f52TMN1NGTrrrHh_Enjg-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Form Upload Berkas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
-          <mxGeometry x="71.75" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="f52TMN1NGTrrrHh_Enjg-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Form Upload Berkas&lt;br&gt;(KTP dan CV)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
+          <mxGeometry x="71.75" y="120" width="268.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f52TMN1NGTrrrHh_Enjg-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Validasi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="f52TMN1NGTrrrHh_Enjg-6" vertex="1">
           <mxGeometry x="71.75" y="270" width="120" height="50" as="geometry" />
