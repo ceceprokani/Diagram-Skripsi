@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-LnCVVdrkijfgitVFEL--1" value="Calon Karyawan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="185" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-LnCVVdrkijfgitVFEL--4" value="" style="html=1;whiteSpace=wrap;fillColor=default;glass=0;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="170" width="430" height="720" as="geometry" />
