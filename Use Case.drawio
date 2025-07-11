@@ -746,7 +746,7 @@
           <mxGeometry x="1710" y="2260" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M-J5cg_PVZTUiCwEUJ73-120" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sistem&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="2379" width="400" height="1191" as="geometry" />
+          <mxGeometry x="2820" y="2379" width="400" height="1221" as="geometry" />
         </mxCell>
         <mxCell id="M-J5cg_PVZTUiCwEUJ73-121" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Halaman&amp;nbsp; Psikotest&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="M-J5cg_PVZTUiCwEUJ73-120" vertex="1">
           <mxGeometry x="113" y="120" width="178.25" height="60" as="geometry" />
@@ -828,7 +828,7 @@
           <mxGeometry x="120" y="419" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M-J5cg_PVZTUiCwEUJ73-135" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HRD, Admin&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2560" y="2379" width="260" height="1191" as="geometry" />
+          <mxGeometry x="2560" y="2379" width="260" height="1221" as="geometry" />
         </mxCell>
         <mxCell id="M-J5cg_PVZTUiCwEUJ73-136" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="M-J5cg_PVZTUiCwEUJ73-135" vertex="1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
