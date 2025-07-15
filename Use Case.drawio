@@ -4056,7 +4056,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AduNM5O-pw5iKoy1-qdf-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;menampilkan data karyawan&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;berdasarkan KTP&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="sGmv8KnESS9BO39D50Wk-184" target="sGmv8KnESS9BO39D50Wk-159">
+        <mxCell id="AduNM5O-pw5iKoy1-qdf-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;menampilkan data karyawan&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;berdasarkan KTP pada form&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="sGmv8KnESS9BO39D50Wk-184" target="sGmv8KnESS9BO39D50Wk-159">
           <mxGeometry x="0.0015" relative="1" as="geometry">
             <mxPoint x="1535.9865671641792" y="6389.366666666667" as="sourcePoint" />
             <mxPoint x="1283.99" y="6389.33" as="targetPoint" />
