@@ -4077,7 +4077,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9fJSnSl6UwQps0X48zGU" name="CLASS DIAGRAM">
-    <mxGraphModel dx="1025" dy="-7278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1708" dy="-6997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4389,7 +4389,7 @@
         <mxCell id="89AYSv3GLqNn8kle8m2q-66" value="+ date: string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="89AYSv3GLqNn8kle8m2q-63" vertex="1">
           <mxGeometry y="78" width="205" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="89AYSv3GLqNn8kle8m2q-67" value="+ status: enum (passed, failed)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="89AYSv3GLqNn8kle8m2q-63" vertex="1">
+        <mxCell id="89AYSv3GLqNn8kle8m2q-67" value="+ status: enum (terima, tolak)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="89AYSv3GLqNn8kle8m2q-63" vertex="1">
           <mxGeometry y="104" width="205" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9M0ckgkqBiuOiPoyFBWs-12" value="+ note: string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="89AYSv3GLqNn8kle8m2q-63" vertex="1">
