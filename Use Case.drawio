@@ -4704,7 +4704,7 @@
         <mxCell id="mbeaxvT0j0Gdrz1-tSSw-58" value="Memiliki" style="rhombus;whiteSpace=wrap;html=1;" parent="cPJJjonc9xOm2MmAhvhg-121" vertex="1">
           <mxGeometry x="910" y="613.5" width="65" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mbeaxvT0j0Gdrz1-tSSw-60" value="Memiliki" style="rhombus;whiteSpace=wrap;html=1;" parent="cPJJjonc9xOm2MmAhvhg-121" vertex="1">
+        <mxCell id="mbeaxvT0j0Gdrz1-tSSw-60" value="Mengisi" style="rhombus;whiteSpace=wrap;html=1;" parent="cPJJjonc9xOm2MmAhvhg-121" vertex="1">
           <mxGeometry x="770" y="610" width="70" height="56.75" as="geometry" />
         </mxCell>
         <mxCell id="mbeaxvT0j0Gdrz1-tSSw-66" value="candidate_id" style="ellipse;whiteSpace=wrap;html=1;" parent="cPJJjonc9xOm2MmAhvhg-121" vertex="1">
