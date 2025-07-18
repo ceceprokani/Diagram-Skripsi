@@ -1979,7 +1979,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rRfeEsRHD-3Hyx44PJkb" name="SEQUENCE DIAGRAM">
-    <mxGraphModel dx="4677" dy="-2894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3089" dy="-3697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3259,7 +3259,7 @@
         <mxCell id="sGmv8KnESS9BO39D50Wk-250" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="449.3432835820895" y="8279.603333333333" width="12.388059701492539" height="301.16666666666663" as="geometry" />
         </mxCell>
-        <mxCell id="sGmv8KnESS9BO39D50Wk-251" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Edit Formulir Soal&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="sGmv8KnESS9BO39D50Wk-250" edge="1">
+        <mxCell id="sGmv8KnESS9BO39D50Wk-251" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Edit Kategori Soal&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="sGmv8KnESS9BO39D50Wk-250" edge="1">
           <mxGeometry x="0.2764" width="80" relative="1" as="geometry">
             <mxPoint x="127.77611940298516" y="8325.936666666666" as="sourcePoint" />
             <mxPoint x="369.3432835820895" y="8325.936666666666" as="targetPoint" />
