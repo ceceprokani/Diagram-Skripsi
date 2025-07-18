@@ -338,12 +338,22 @@
         <mxCell id="RHaWf_Yq4CW312gJQsgt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YIHD0tMDVWa32eO57tJM-111" source="RHaWf_Yq4CW312gJQsgt-26" target="RHaWf_Yq4CW312gJQsgt-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RHaWf_Yq4CW312gJQsgt-45" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RHaWf_Yq4CW312gJQsgt-33">
+          <mxGeometry x="-0.2245" relative="1" as="geometry">
+            <mxPoint x="18" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RHaWf_Yq4CW312gJQsgt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YIHD0tMDVWa32eO57tJM-111" source="RHaWf_Yq4CW312gJQsgt-26" target="RHaWf_Yq4CW312gJQsgt-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="579" />
               <mxPoint x="20" y="761" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHaWf_Yq4CW312gJQsgt-46" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RHaWf_Yq4CW312gJQsgt-36">
+          <mxGeometry x="-0.6633" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RHaWf_Yq4CW312gJQsgt-26" value="Berhasil ?" style="rhombus;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="YIHD0tMDVWa32eO57tJM-111">
