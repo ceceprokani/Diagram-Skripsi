@@ -4250,7 +4250,7 @@
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;table_soal&lt;/span&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1941.49" y="7541.16" width="110" height="99.53" as="geometry" />
         </mxCell>
-        <mxCell id="hleEqyH1QM_yg5Lpd7xA-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" source="hleEqyH1QM_yg5Lpd7xA-41" parent="1">
+        <mxCell id="hleEqyH1QM_yg5Lpd7xA-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" source="hleEqyH1QM_yg5Lpd7xA-82" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1998.717761194029" y="8888.477576976104" as="sourcePoint" />
             <mxPoint x="1998.2699999999998" y="7683.52" as="targetPoint" />
@@ -4648,6 +4648,15 @@
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hleEqyH1QM_yg5Lpd7xA-83" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="hleEqyH1QM_yg5Lpd7xA-41" target="hleEqyH1QM_yg5Lpd7xA-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1998" y="8533" as="sourcePoint" />
+            <mxPoint x="1998.2699999999998" y="7683.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hleEqyH1QM_yg5Lpd7xA-82" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1992.5237313432826" y="8006.446166666667" width="12.388059701492539" height="147.27049999999997" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
