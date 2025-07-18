@@ -1912,7 +1912,7 @@
         <mxCell id="q93DHHVgSTK53pi6mc_M-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Menampilkan pesan &quot;Data berhasil dihapus&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="q93DHHVgSTK53pi6mc_M-1">
           <mxGeometry x="146.75" y="785" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="q93DHHVgSTK53pi6mc_M-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Klik Tombol Hapus Pada Daftar Calon Karyawan&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="q93DHHVgSTK53pi6mc_M-1">
+        <mxCell id="q93DHHVgSTK53pi6mc_M-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Klik Tombol Hapus Pada Daftar Kategori Psikotest&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="q93DHHVgSTK53pi6mc_M-1">
           <mxGeometry x="-220" y="350" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q93DHHVgSTK53pi6mc_M-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mengkonfirmasi Proses Hapus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="q93DHHVgSTK53pi6mc_M-1">
