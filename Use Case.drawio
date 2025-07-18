@@ -1979,7 +1979,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rRfeEsRHD-3Hyx44PJkb" name="SEQUENCE DIAGRAM">
-    <mxGraphModel dx="5173" dy="-2643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4677" dy="-2894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2755,11 +2755,11 @@
             <mxPoint x="1789.9385074626869" y="5943.2495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGmv8KnESS9BO39D50Wk-167" value="masterKandidat" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sGmv8KnESS9BO39D50Wk-167" value="calonKaryawan" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1748.1443283582091" y="5700" width="111.49253731343283" height="119.14616666666663" as="geometry" />
         </mxCell>
-        <mxCell id="sGmv8KnESS9BO39D50Wk-168" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;table_kandidat&lt;/font&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1989.64" y="5713.52" width="110" height="99.53" as="geometry" />
+        <mxCell id="sGmv8KnESS9BO39D50Wk-168" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;table_calon_karyawan&lt;/font&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1974.91" y="5680" width="150.36" height="133.05" as="geometry" />
         </mxCell>
         <mxCell id="sGmv8KnESS9BO39D50Wk-169" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" source="sGmv8KnESS9BO39D50Wk-195" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
