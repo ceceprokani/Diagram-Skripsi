@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Gambaran Umum" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2316" dy="1997" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="772" dy="1216" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
           <mxGeometry x="1252" y="-146" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIHD0tMDVWa32eO57tJM-102" value="HRD, Admin Operasional" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="1270" y="2" width="280" height="2215" as="geometry">
+          <mxGeometry x="1270" y="2" width="280" height="2125" as="geometry">
             <mxRectangle x="164.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -175,7 +175,7 @@
           <mxGeometry x="85" y="861" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YIHD0tMDVWa32eO57tJM-111" value="Aplikasi" style="swimlane;whiteSpace=wrap;startSize=23;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="2" width="296" height="2212" as="geometry" />
+          <mxGeometry x="1550" y="2" width="296" height="2125" as="geometry" />
         </mxCell>
         <mxCell id="YIHD0tMDVWa32eO57tJM-105" value="Validasi Berkas" style="" parent="YIHD0tMDVWa32eO57tJM-111" vertex="1">
           <mxGeometry x="67.75" y="120" width="160" height="50" as="geometry" />
@@ -364,7 +364,7 @@
           <mxGeometry x="40.50999999999999" y="861" width="215.87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YIHD0tMDVWa32eO57tJM-143" value="Calon Karyawan" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="1845.5" y="2" width="295.5" height="2206" as="geometry" />
+          <mxGeometry x="1845.5" y="2" width="295.5" height="2125" as="geometry" />
         </mxCell>
         <mxCell id="YIHD0tMDVWa32eO57tJM-144" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="YIHD0tMDVWa32eO57tJM-143" vertex="1">
           <mxGeometry x="132.75" y="40" width="30" height="30" as="geometry" />
