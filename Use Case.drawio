@@ -1979,7 +1979,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rRfeEsRHD-3Hyx44PJkb" name="SEQUENCE DIAGRAM">
-    <mxGraphModel dx="2234" dy="-4130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3303" dy="-3589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4193,11 +4193,11 @@
           <mxGeometry x="1423.27447761194" y="7541.156166666666" width="139.36567164179104" height="104.24999999999997" as="geometry" />
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-2" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="1153.27" y="7529.9995" width="37.16417910447761" height="1363.5204999999999" as="geometry" />
+          <mxGeometry x="1153.27" y="7529.9995" width="37.16417910447761" height="1580" as="geometry" />
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="hleEqyH1QM_yg5Lpd7xA-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="18.582089552238806" y="1363.5204999999999" as="sourcePoint" />
+            <mxPoint x="18.730000000000018" y="1610.0005" as="sourcePoint" />
             <mxPoint x="18.582089552238806" y="147.27050000000034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -4205,7 +4205,7 @@
           <mxGeometry y="11.58333333333333" width="37.16417910447761" height="81.08333333333331" as="geometry" />
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="hleEqyH1QM_yg5Lpd7xA-2">
-          <mxGeometry x="12.388059701492539" y="185.3333333333333" width="12.388059701492539" height="1141.5027499999999" as="geometry" />
+          <mxGeometry x="12.39" y="185.33" width="12.39" height="1384.67" as="geometry" />
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" source="hleEqyH1QM_yg5Lpd7xA-71" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4482,10 +4482,10 @@
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1499.6132835820895" y="8880.253333333332" width="12.388059701492539" height="231.6666666666666" as="geometry" />
         </mxCell>
-        <mxCell id="hleEqyH1QM_yg5Lpd7xA-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Hapus Kategori Soal&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="hleEqyH1QM_yg5Lpd7xA-49" parent="1">
+        <mxCell id="hleEqyH1QM_yg5Lpd7xA-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Hapus Kategori Soal&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.2142" width="80" relative="1" as="geometry">
-            <mxPoint x="1178.0461194029851" y="8938.17" as="sourcePoint" />
-            <mxPoint x="1419.6132835820895" y="8938.17" as="targetPoint" />
+            <mxPoint x="1179.0999999999992" y="8930.003333333332" as="sourcePoint" />
+            <mxPoint x="1500.66328358209" y="8930.003333333332" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -4528,7 +4528,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hleEqyH1QM_yg5Lpd7xA-57" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Menampilkan pesan kategori soal&lt;br&gt;berhasil dihapus&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="hleEqyH1QM_yg5Lpd7xA-49" parent="1">
+        <mxCell id="hleEqyH1QM_yg5Lpd7xA-57" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Menampilkan pesan kategori soal&lt;br&gt;berhasil dihapus&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="hleEqyH1QM_yg5Lpd7xA-49" parent="1" target="hleEqyH1QM_yg5Lpd7xA-5">
           <mxGeometry x="-0.2142" relative="1" as="geometry">
             <mxPoint x="1419.6132835820895" y="9078.606333333333" as="sourcePoint" />
             <mxPoint x="1178.0461194029851" y="9078.606333333333" as="targetPoint" />
@@ -4539,11 +4539,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-58" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="1223.27" y="7529.9995" width="37.16417910447761" height="1363.5204999999999" as="geometry" />
+          <mxGeometry x="1223.27" y="7529.9995" width="37.16417910447761" height="1580" as="geometry" />
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="hleEqyH1QM_yg5Lpd7xA-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="18.582089552238806" y="1363.5204999999999" as="sourcePoint" />
+            <mxPoint x="16.730000000000018" y="1610.0005" as="sourcePoint" />
             <mxPoint x="18.582089552238806" y="147.27050000000034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -4551,7 +4551,7 @@
           <mxGeometry y="11.58333333333333" width="37.16417910447761" height="81.08333333333331" as="geometry" />
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-61" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="hleEqyH1QM_yg5Lpd7xA-58">
-          <mxGeometry x="12.388059701492539" y="185.3333333333333" width="12.388059701492539" height="1141.5027499999999" as="geometry" />
+          <mxGeometry x="12.39" y="185.33" width="12.39" height="1394.67" as="geometry" />
         </mxCell>
         <mxCell id="hleEqyH1QM_yg5Lpd7xA-62" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Kelola Soal &amp;amp; Kunci Jawaban&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="1132" y="7420" width="490" height="70" as="geometry" />
