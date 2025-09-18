@@ -2073,7 +2073,7 @@
           <mxGeometry x="236.75" y="562" width="133.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iZHh5g_HwPggRXFZVbU7-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Menampilkan hasil ekstraksi ke form input&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iZHh5g_HwPggRXFZVbU7-7">
-          <mxGeometry x="62.63" y="660" width="138.25" height="50" as="geometry" />
+          <mxGeometry x="62.63" y="680" width="138.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iZHh5g_HwPggRXFZVbU7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iZHh5g_HwPggRXFZVbU7-7" source="iZHh5g_HwPggRXFZVbU7-26" target="iZHh5g_HwPggRXFZVbU7-19">
           <mxGeometry relative="1" as="geometry">
