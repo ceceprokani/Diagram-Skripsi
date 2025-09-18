@@ -191,7 +191,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JDkG3bA-1qyNmmjzLE93" name="ACTIVITY DIAGRAM">
-    <mxGraphModel dx="1489" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="3348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1116,7 +1116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iJ6wgtOdonYrlpa5XgIQ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sistem&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4520" y="3329" width="400" height="541" as="geometry" />
+          <mxGeometry x="5420" y="3329" width="400" height="541" as="geometry" />
         </mxCell>
         <mxCell id="iJ6wgtOdonYrlpa5XgIQ-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Halaman&amp;nbsp; Psikotest&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="iJ6wgtOdonYrlpa5XgIQ-2" vertex="1">
           <mxGeometry x="113" y="120" width="178.25" height="60" as="geometry" />
@@ -1128,7 +1128,7 @@
           <mxGeometry x="100" y="431" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iJ6wgtOdonYrlpa5XgIQ-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HRD, Admin&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4260" y="3329" width="260" height="541" as="geometry" />
+          <mxGeometry x="5160" y="3329" width="260" height="541" as="geometry" />
         </mxCell>
         <mxCell id="iJ6wgtOdonYrlpa5XgIQ-33" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="iJ6wgtOdonYrlpa5XgIQ-32" vertex="1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
@@ -1148,7 +1148,7 @@
           <mxGeometry x="60" y="431" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iJ6wgtOdonYrlpa5XgIQ-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;6. Alur Lihat Jawaban Psikotest Calon Karyawan&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4260" y="3290" width="620" height="30" as="geometry" />
+          <mxGeometry x="5160" y="3290" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iJ6wgtOdonYrlpa5XgIQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iJ6wgtOdonYrlpa5XgIQ-3" target="iJ6wgtOdonYrlpa5XgIQ-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1158,7 +1158,7 @@
         </mxCell>
         <mxCell id="iJ6wgtOdonYrlpa5XgIQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iJ6wgtOdonYrlpa5XgIQ-22" target="iJ6wgtOdonYrlpa5XgIQ-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4380" y="3750" as="targetPoint" />
+            <mxPoint x="5280" y="3750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iJ6wgtOdonYrlpa5XgIQ-16" target="iJ6wgtOdonYrlpa5XgIQ-17" edge="1">
@@ -1168,7 +1168,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sistem&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5220" y="3329" width="400" height="941" as="geometry" />
+          <mxGeometry x="6120" y="3329" width="400" height="941" as="geometry" />
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Menampilkan Halaman&amp;nbsp; Psikotest&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="rRmQ3kHY3hnPeH_5QTte-3" vertex="1">
           <mxGeometry x="113" y="120" width="178.25" height="60" as="geometry" />
@@ -1222,7 +1222,7 @@
           <mxGeometry x="173.25" y="541" width="80.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HRD, Admin&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4960" y="3329" width="260" height="941" as="geometry" />
+          <mxGeometry x="5860" y="3329" width="260" height="941" as="geometry" />
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-8" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="rRmQ3kHY3hnPeH_5QTte-7" vertex="1">
           <mxGeometry x="105" y="40" width="30" height="30" as="geometry" />
@@ -1245,7 +1245,7 @@
           <mxGeometry x="20" y="551" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;7. Alur Reset Jawaban Psikotest Calon Karyawan&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4960" y="3290" width="620" height="30" as="geometry" />
+          <mxGeometry x="5860" y="3290" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rRmQ3kHY3hnPeH_5QTte-4" target="rRmQ3kHY3hnPeH_5QTte-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1255,7 +1255,7 @@
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rRmQ3kHY3hnPeH_5QTte-5" target="rRmQ3kHY3hnPeH_5QTte-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5080" y="3750" as="targetPoint" />
+            <mxPoint x="5980" y="3750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rRmQ3kHY3hnPeH_5QTte-12" target="rRmQ3kHY3hnPeH_5QTte-6" edge="1">
@@ -1264,8 +1264,8 @@
         <mxCell id="rRmQ3kHY3hnPeH_5QTte-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rRmQ3kHY3hnPeH_5QTte-6" target="rRmQ3kHY3hnPeH_5QTte-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5430" y="3840" />
-              <mxPoint x="5090" y="3840" />
+              <mxPoint x="6330" y="3840" />
+              <mxPoint x="5990" y="3840" />
             </Array>
           </mxGeometry>
         </mxCell>
